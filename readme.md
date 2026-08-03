@@ -143,27 +143,6 @@ Each chapter contains practice questions and coding exercises to strengthen prob
 # 📂 Repository Structure
 
 ```
-Python-Learning-Journey/
-│
-├── Chapter 1 - Modules, Comments & pip/
-├── Chapter 2 - Variables & Data Types/
-├── Chapter 3 - Strings/
-├── Chapter 4 - Lists & Tuples/
-├── Chapter 5 - Dictionaries & Sets/
-├── Chapter 6 - Conditional Statements/
-├── Chapter 7 - Loops/
-├── Chapter 8 - Functions & Recursion/
-├── Chapter 9 - File Handling/
-├── Chapter 10 - OOP/
-├── Chapter 11 - Inheritance/
-├── Chapter 12 - Advanced Python I/
-├── Chapter 13 - Advanced Python II/
-│
-├── Projects/
-├── Practice Problems/
-└── README.md
-```
-
 ---
 
 # 🛠 Tech Stack
