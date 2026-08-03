@@ -1,202 +1,194 @@
-# 🐍 Python Complete Course
+# 🐍 Python Learning Journey
 
-Welcome to my **Python Complete Course** repository! 🚀
+Welcome to my **Python Learning Journey** repository! 🚀
 
-This repository contains all the Python chapters that I have learned, along with examples, practice programs, assignments, and mini-projects. It is organized from **Beginner** to **Advanced** concepts.
+This repository contains all the notes, source code, practice programs, exercises, assignments, and projects that I completed while learning Python from **beginner to advanced**. It serves as my personal learning archive and a reference for anyone starting Python.
+
+> **Learning Source:** The Ultimate Python Course by CodeWithHarry (with my own notes, practice, and implementations).
 
 ---
 
-## 📚 Course Roadmap
+## 📚 Table of Contents
 
-### 📖 Chapter 1 - Introduction to Python
-- What is Python?
-- Features of Python
-- Installing Python
-- Running Python Programs
-- IDEs & Code Editors
+- Introduction
+- Course Chapters
+- Projects
+- Practice Problems
+- Repository Structure
+- Tech Stack
+- How to Use This Repository
+- Learning Goals
+- Acknowledgements
 
-### 📖 Chapter 2 - Variables & Data Types
+---
+
+# 📖 Introduction
+
+I created this repository to document my Python learning journey. Every chapter includes examples, coding exercises, and practice programs that helped me understand Python concepts.
+
+Whether you're revising Python or starting from scratch, I hope this repository can be a useful reference.
+
+---
+
+# 📘 Course Chapters
+
+## Chapter 1 — Modules, Comments & pip
+- First Python Program
+- Modules
+- Installing Packages with pip
+- Python as a Calculator
+- Comments
+
+## Chapter 2 — Variables & Data Types
 - Variables
-- Naming Rules
-- Numbers
-- Strings
-- Booleans
-- Type Conversion
-- Type Checking
+- Data Types
+- Identifiers
+- Operators
+- Type Casting
+- User Input
 
-### 📖 Chapter 3 - Input & Output
-- print()
-- input()
-- Formatting Output
-- Escape Characters
-- String Formatting
-
-### 📖 Chapter 4 - Operators
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- Membership Operators
-- Identity Operators
-- Bitwise Operators
-
-### 📖 Chapter 5 - Strings
-- String Basics
-- Indexing
-- Slicing
+## Chapter 3 — Strings
+- String Indexing
+- String Slicing
 - String Methods
 - Escape Sequences
-- String Formatting
 
-### 📖 Chapter 6 - Conditional Statements
+## Chapter 4 — Lists & Tuples
+- Lists
+- List Methods
+- Tuples
+- Tuple Methods
+
+## Chapter 5 — Dictionaries & Sets
+- Dictionaries
+- Dictionary Methods
+- Sets
+- Set Operations
+
+## Chapter 6 — Conditional Statements
 - if
 - if-else
-- if-elif-else
-- Nested if
-- Match Case
+- if-elif
+- Nested Conditions
+- Logical Operators
 
-### 📖 Chapter 7 - Loops
-- for Loop
+## Chapter 7 — Loops
 - while Loop
+- for Loop
+- range()
 - Nested Loops
 - break
 - continue
 - pass
 
-### 📖 Chapter 8 - Lists
-- List Basics
-- Indexing
-- Slicing
-- List Methods
-- List Comprehension
-
-### 📖 Chapter 9 - Tuples
-- Tuple Basics
-- Packing & Unpacking
-- Tuple Methods
-
-### 📖 Chapter 10 - Sets
-- Set Basics
-- Set Methods
-- Set Operations
-
-### 📖 Chapter 11 - Dictionaries
-- Dictionary Basics
-- Dictionary Methods
-- Nested Dictionary
-
-### 📖 Chapter 12 - Functions
-- Function Basics
+## Chapter 8 — Functions & Recursion
+- Functions
 - Parameters
 - Return Values
-- Lambda Functions
 - Recursion
 
-### 📖 Chapter 13 - Modules & Packages
-- Importing Modules
-- Creating Modules
-- Packages
-- pip
-
-### 📖 Chapter 14 - File Handling
+## Chapter 9 — File Handling
 - Reading Files
 - Writing Files
-- Appending Files
-- File Modes
+- Working with Directories
 
-### 📖 Chapter 15 - Exception Handling
-- try
-- except
-- else
-- finally
-- Custom Exceptions
-
-### 📖 Chapter 16 - Object-Oriented Programming (OOP)
+## Chapter 10 — Object-Oriented Programming
 - Classes
 - Objects
 - Constructors
+- Methods
+- Attributes
+
+## Chapter 11 — Inheritance & Advanced OOP
 - Inheritance
 - Polymorphism
-- Encapsulation
-- Abstraction
+- Operator Overloading
 
-### 📖 Chapter 17 - Iterators & Generators
+## Chapter 12 — Advanced Python I
+- Match Case
+- Walrus Operator
+- Advanced Type Hints
+- Enumerate
+- List Comprehensions
+- Exception Handling
 
-### 📖 Chapter 18 - Decorators
-
-### 📖 Chapter 19 - Regular Expressions (Regex)
-
-### 📖 Chapter 20 - Date & Time
-
-### 📖 Chapter 21 - Virtual Environment
-
-### 📖 Chapter 22 - SQLite Database
-
-### 📖 Chapter 23 - Multithreading
-
-### 📖 Chapter 24 - Networking Basics
-
-### 📖 Chapter 25 - Mini Projects
+## Chapter 13 — Advanced Python II
+- Virtual Environments
+- Lambda Functions
+- map()
+- filter()
+- reduce()
+- join()
+- format()
 
 ---
 
-## 📂 Repository Structure
+# 🚀 Projects
+
+- 🐍 Snake Water Gun Game
+- 🎯 Guess The Number
+- 🤖 Jarvis Virtual Assistant
+- 💬 AI Auto Reply Bot
+
+More projects will be added as I continue learning.
+
+---
+
+# 💻 Practice Problems
+
+Each chapter contains practice questions and coding exercises to strengthen problem-solving skills and reinforce Python concepts.
+
+---
+
+# 📂 Repository Structure
 
 ```
-Python-Complete-Course/
+Python-Learning-Journey/
 │
-├── Chapter-01-Introduction/
-├── Chapter-02-Variables/
-├── Chapter-03-Input-Output/
-├── Chapter-04-Operators/
-├── Chapter-05-Strings/
-├── Chapter-06-Conditional-Statements/
-├── Chapter-07-Loops/
-├── Chapter-08-Lists/
-├── Chapter-09-Tuples/
-├── Chapter-10-Sets/
-├── Chapter-11-Dictionaries/
-├── Chapter-12-Functions/
-├── Chapter-13-Modules/
-├── Chapter-14-File-Handling/
-├── Chapter-15-Exception-Handling/
-├── Chapter-16-OOP/
-├── Chapter-17-Iterators/
-├── Chapter-18-Decorators/
-├── Chapter-19-Regex/
-├── Chapter-20-Date-Time/
-├── Chapter-21-Virtual-Environment/
-├── Chapter-22-SQLite/
-├── Chapter-23-Multithreading/
-├── Chapter-24-Networking/
-├── Chapter-25-Mini-Projects/
+├── Chapter 1 - Modules, Comments & pip/
+├── Chapter 2 - Variables & Data Types/
+├── Chapter 3 - Strings/
+├── Chapter 4 - Lists & Tuples/
+├── Chapter 5 - Dictionaries & Sets/
+├── Chapter 6 - Conditional Statements/
+├── Chapter 7 - Loops/
+├── Chapter 8 - Functions & Recursion/
+├── Chapter 9 - File Handling/
+├── Chapter 10 - OOP/
+├── Chapter 11 - Inheritance/
+├── Chapter 12 - Advanced Python I/
+├── Chapter 13 - Advanced Python II/
+│
+├── Projects/
+├── Practice Problems/
 └── README.md
 ```
 
 ---
 
-## 💻 Requirements
+# 🛠 Tech Stack
 
-- Python 3.12+
-- VS Code / PyCharm / Any Python IDE
+- Python 3.x
+- VS Code
+- Git & GitHub
 
 ---
 
-## ▶️ Running the Code
+# ▶️ How to Use This Repository
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Python-Complete-Course.git
-```
-
-Navigate to the project:
+### Clone the Repository
 
 ```bash
-cd Python-Complete-Course
+git clone https://github.com/your-username/Python-Learning-Journey.git
 ```
 
-Run any Python file:
+### Navigate to the Repository
+
+```bash
+cd Python-Learning-Journey
+```
+
+### Run Any Program
 
 ```bash
 python filename.py
@@ -204,40 +196,35 @@ python filename.py
 
 ---
 
-## 🎯 What You'll Learn
+# 🎯 Learning Goals
 
-- Python Fundamentals
-- Problem Solving
-- Data Structures
-- Object-Oriented Programming
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Regular Expressions
-- Database Programming
-- Multithreading
-- Python Best Practices
-- Mini Projects
+By completing this repository, I aim to:
+
+- Master Python fundamentals
+- Improve problem-solving skills
+- Build real-world Python projects
+- Learn Object-Oriented Programming
+- Understand Advanced Python concepts
+- Prepare for AI, Machine Learning, and Backend Development
 
 ---
 
-## 🚀 Future Updates
+# 📈 Repository Status
 
-- Data Structures & Algorithms
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Flask
-- Django
-- FastAPI
-- Machine Learning
-- AI with Python
+✅ Beginner Python  
+✅ Intermediate Python  
+✅ Advanced Python *(In Progress)*
 
 ---
 
-## ⭐ Support
+# 🙏 Acknowledgements
 
-If you found this repository helpful, consider giving it a ⭐ on GitHub.
+This repository is based on concepts learned from **The Ultimate Python Course** by **CodeWithHarry**. The code, notes, practice exercises, and organization in this repository reflect my personal learning journey and hands-on practice.
 
-Happy Coding! 🚀🐍
+---
+
+# ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ and feel free to explore the code.
+
+Happy Coding! 🐍🚀
