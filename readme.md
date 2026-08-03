@@ -138,27 +138,6 @@ More projects will be added as I continue learning.
 
 Each chapter contains practice questions and coding exercises to strengthen problem-solving skills and reinforce Python concepts.
 
----
-
-# 📂 Repository Structure
-
-```
----
-
-# 🛠 Tech Stack
-
-- Python 3.x
-- VS Code
-- Git & GitHub
-
----
-
-# ▶️ How to Use This Repository
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Python-Learning-Journey.git
 ```
 
 ### Navigate to the Repository
